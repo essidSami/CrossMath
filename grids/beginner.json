@@ -1,53 +1,93 @@
 [
-	{ 
-		"id": 1,
-		"size" : 11,
-		"equations" : [
+  {
+    "id": 1,
+    "size": 11,
+    "equations": [
       {
         "id": 1,
-        "term1" : 2,
-        "operation" : 3,
-        "term2": 4,
-        "equal": 5,
-        "result": 6,
-        "positions": [47,48,49,50,51],
+        "terms": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "positions": [
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
       },
       {
         "id": 2,
-        "term1" : 0,
-        "operation" :1,
-        "term2": 4,
-        "equal": 8,
-        "result": 11,
-        "positions": [27, 38, 49, 60, 71],
+        "terms": [
+          0,
+          1,
+          4,
+          8,
+          11
+        ],
+        "positions": [
+          27,
+          38,
+          49,
+          60,
+          71
+        ]
       },
       {
         "id": 3,
-        "term1" : 2,
-        "operation" :9,
-        "term2": 12,
-        "equal": 14,
-        "result": 20,
-        "positions": [47, 58, 69, 80, 91],
+        "terms": [
+          2,
+          9,
+          12,
+          14,
+          20
+        ],
+        "positions": [
+          47,
+          58,
+          69,
+          80,
+          91
+        ]
       },
       {
         "id": 4,
-        "term1" : 6,
-        "operation" :9,
-        "term2": 12,
-        "equal": 14,
-        "result": 20,
-        "positions": [51, 62, 73, 84, 95],
+        "terms": [
+          6,
+          9,
+          12,
+          14,
+          20
+        ],
+        "positions": [
+          51,
+          62,
+          73,
+          84,
+          95
+        ]
       },
       {
         "id": 5,
-        "term1" : 15,
-        "operation" :16,
-        "term2": 17,
-        "equal": 18,
-        "result": 19,
-        "positions": [89, 90, 91, 92, 93],
+        "terms": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "positions": [
+          89,
+          90,
+          91,
+          92,
+          93
+        ]
       }
     ]
-	}
+  }
 ]
