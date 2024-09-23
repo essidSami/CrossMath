@@ -13,11 +13,11 @@
           6
         ],
         "positions": [
-          {"position" : 47, "is_visible" : 0},
-          {"position" : 48, "is_visible" : 0},
-          {"position" : 49, "is_visible" : 0},
-          {"position" : 50, "is_visible" : 0},
-          {"position" : 51, "is_visible" : 1}
+          {"position" : 47, "is_visible" : true},
+          {"position" : 48, "is_visible" : true},
+          {"position" : 49, "is_visible" : true},
+          {"position" : 50, "is_visible" : true},
+          {"position" : 51, "is_visible" : false}
         ]
       },
       {
@@ -30,11 +30,11 @@
           11
         ],
         "positions": [
-          {"position" : 27, "is_visible" : 0},
-          {"position" : 38, "is_visible" : 0},
-          {"position" : 49, "is_visible" : 0},
-          {"position" : 60, "is_visible" : 0},
-          {"position" : 71, "is_visible" : 1}
+          {"position" : 27, "is_visible" : true},
+          {"position" : 38, "is_visible" : true},
+          {"position" : 49, "is_visible" : true},
+          {"position" : 60, "is_visible" : true},
+          {"position" : 71, "is_visible" : false}
         ]
       },
       {
@@ -47,11 +47,11 @@
           20
         ],
         "positions": [
-          {"position" : 47, "is_visible" : 0},
-          {"position" : 58, "is_visible" : 0},
-          {"position" : 69, "is_visible" : 0},
-          {"position" : 80, "is_visible" : 0},
-          {"position" : 91, "is_visible" : 1}
+          {"position" : 47, "is_visible" : true},
+          {"position" : 58, "is_visible" : true},
+          {"position" : 69, "is_visible" : true},
+          {"position" : 80, "is_visible" : true},
+          {"position" : 91, "is_visible" : false}
         ]
       },
       {
@@ -64,11 +64,11 @@
           20
         ],
         "positions": [
-          {"position" : 51, "is_visible" : 0},
-          {"position" : 62, "is_visible" : 0},
-          {"position" : 73, "is_visible" : 0},
-          {"position" : 84, "is_visible" : 0},
-          {"position" : 95, "is_visible" : 1}
+          {"position" : 51, "is_visible" :true},
+          {"position" : 62, "is_visible" : true},
+          {"position" : 73, "is_visible" : true},
+          {"position" : 84, "is_visible" : true},
+          {"position" : 95, "is_visible" : false}
         ]
       },
       {
@@ -81,11 +81,11 @@
           19
         ],
         "positions": [
-          {"position" : 89, "is_visible" : 0},
-          {"position" : 90, "is_visible" : 0},
-          {"position" : 91, "is_visible" : 0},
-          {"position" : 92, "is_visible" : 0},
-          {"position" : 93, "is_visible" : 1}
+          {"position" : 89, "is_visible" : true},
+          {"position" : 90, "is_visible" : true},
+          {"position" : 91, "is_visible" : true},
+          {"position" : 92, "is_visible" : true},
+          {"position" : 93, "is_visible" : false}
         ]
       }
     ]
