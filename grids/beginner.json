@@ -41,10 +41,10 @@
         "id": 3,
         "terms": [
           2,
-          9,
-          12,
-          14,
-          20
+          7,
+          10,
+          13,
+          17
         ],
         "positions": [
           {"position" : 47, "is_visible" : true},
